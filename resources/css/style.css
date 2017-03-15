@@ -10,7 +10,7 @@ h2, h3, h4 {
   margin: 0;
   padding: 10px;
 }
-h5 {
+h5, h6 {
   margin: 0;
 }
 /*Header & Logo Styling*/
@@ -108,4 +108,9 @@ a {
 /*Contact Section Styling*/
 #contact {
   height: 200px;
+}
+/*Footer Styling*/
+footer {
+  text-align: left;
+  padding-left: 20px;
 }
